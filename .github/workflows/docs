@@ -1,4 +1,4 @@
-name: Documentation
+name: Hackintosh Simplified
 on:
   push:
     branches:
